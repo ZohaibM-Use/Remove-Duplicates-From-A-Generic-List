@@ -23,4 +23,4 @@ ArrayList<String> pokemon = new ArrayList<>();
 
 ---
 
-## Lessons
+## 🎓 Lessons Learned
