@@ -64,7 +64,7 @@ ArrayList<String> pokemon = new ArrayList<>();
 
 **Difference with `ArrayList<Object>`**
   - Since every class extends form Objects, anything could be stored in the ArrayList. This behaves the same way as having no generics.
-  - You lose the convenience of generics - type saftey.
+  - You lose the convenience of generics - type safety.
   - When retrieving from a list of Objects, you will need to type cast similar to raw ArrayList, however, this will not throw an error.
 
     ```java
@@ -76,8 +76,8 @@ ArrayList<String> pokemon = new ArrayList<>();
   - ArrayList of Objects should only be used if you intentially want to mix types since it will not throw an error.
 
 
-**What does Type Saftey mean?**
-  - Type saftey is a programming concept that ensures a variable can only perform operation declared by its type.
+**What does Type Safety mean?**
+  - Type safety is a programming concept that ensures a variable can only perform operation declared by its type.
     
     ```java
     int x = 0, y = 7;
