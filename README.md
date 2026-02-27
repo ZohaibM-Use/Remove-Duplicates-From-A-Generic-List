@@ -23,7 +23,7 @@ ArrayList<String> pokemon = new ArrayList<>();
 
 ---
 
-# 🎓 Lessons Learned
+#  Lessons Learned
 
 **Removing elements inside a regular for loop**
   - Elements might be skipped.
