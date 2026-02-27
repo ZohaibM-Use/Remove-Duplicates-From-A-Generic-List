@@ -1,5 +1,11 @@
 # Remove Duplicates from a Generic List
 
+## Collaborators
+
+Zohaib, Nickk, Tasnim, Jun, Waheed, Okwan
+
+---
+
 **Create:**
 
 ```java
@@ -28,10 +34,11 @@ ArrayList<String> pokemon = new ArrayList<>();
 **Removing elements inside a regular for loop**
   - Elements might be skipped.
   - Removing a lot of elements may cause an `IndexOutOfBounds` error.
+  - Overall prone to errors.
 
 
 **ArrayList<> with generics prevents mixing types**
-  - Java is a statically typed language meaning every variable has a declared type (`int`, `double`, `String`, etc). You cannot perform operations that are incompatible         with a variables type!
+  - Java is a statically typed language meaning every variable has a declared type (`int`, `double`, `String`, etc). You cannot perform operations that are incompatible with a variables type!
     
     ```java
     int x = 5;
