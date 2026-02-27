@@ -2,7 +2,7 @@
 
 ## Collaborators
 
-Zohaib, Nickk, Tasnim, Jun, Waheed, Okwan
+**Zohaib, Nickk, Tasnim Islam, Jun, Waheed, Okwan**
 
 ---
 
