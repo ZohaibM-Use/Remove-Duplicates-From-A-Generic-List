@@ -25,12 +25,12 @@ ArrayList<String> pokemon = new ArrayList<>();
 
 # 🎓 Lessons Learned
 
-Removing elements inside a regular for loop
+**Removing elements inside a regular for loop**
   - Elements might be skipped.
   - Removing a lot of elements may cause an `IndexOutOfBounds` error.
 
 
-ArrayList<> with generics prevents mixing types
+**ArrayList<> with generics prevents mixing types**
   - Java is a statically typed language meaning every variable has a declared type (`int`, `double`, `String`, etc). You cannot perform operations that are incompatible         with a variables type!
     
     ```java
@@ -56,7 +56,7 @@ ArrayList<> with generics prevents mixing types
     ```
 
 
-Difference with `ArrayList<Object>`
+**Difference with `ArrayList<Object>`**
   - Since every class extends form Objects, anything could be stored in the ArrayList. This behaves the same way as having no generics.
   - You lose the convenience of generics - type saftey.
   - When retrieving from a list of Objects, you will need to type cast similar to raw ArrayList, however, this will not throw an error.
@@ -70,7 +70,7 @@ Difference with `ArrayList<Object>`
   - ArrayList of Objects should only be used if you intentially want to mix types since it will not throw an error.
 
 
-What does Type Saftey mean?
+**What does Type Saftey mean?**
   - Type saftey is a programming concept that ensures a variable can only perform operation declared by its type.
     
     ```java
