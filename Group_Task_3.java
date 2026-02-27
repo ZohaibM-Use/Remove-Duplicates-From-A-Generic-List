@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 public class Group_Task_3 {
     public static void main(String[] args) {
-        System.out.println("Collaborators: Zohaib, Nickk, Tasnim, Jun, Waheed, Okwan");
+        System.out.println("Collaborators: Zohaib, Nickk, Tasnim Islam, Jun, Waheed, Okwan");
         System.out.println("---------------------------------------------------------");
         /*
         Arrays.asList() method
