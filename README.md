@@ -1,7 +1,7 @@
 # Remove Duplicates from a Generic List
 
 ## Collaborators
-**Zohaib** | **Nickk** | **Tasnim Islam** | **Jun** | **Waheed** | **Okwan**
+**Zohaib** | **Nickk** | **Tasnim Islam** | **Junnan** | **Waheed** | **Okwan**
 
 ---
 
